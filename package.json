@@ -5,6 +5,11 @@
   "publisher": "TimHeuer",
   "version": "0.0.7",
   "preview": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timheuer/simple-ext"
+  },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.72.0"
   },
